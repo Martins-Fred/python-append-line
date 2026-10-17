@@ -1,0 +1,1 @@
+This project taught me how to add one line to the end of a text file without deleting the existing text, using with open(), append mode "a", f.write() and "\n".
